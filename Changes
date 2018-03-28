@@ -1,6 +1,7 @@
 Revision history for Dist-Zilla-Plugin-UseBuildPL
 
 {{$NEXT}}
+        - Add a dependency on Dist::Zilla
 
 0.1  2018-03-27 14:17:24 BST
         - Initial release
